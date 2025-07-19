@@ -1,1 +1,1 @@
-The place the [[Mirrorcatch Locket Box]] ended up.
+A rare spot that survived the [[Fall]].
