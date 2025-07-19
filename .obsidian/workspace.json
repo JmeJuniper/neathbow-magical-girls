@@ -56,12 +56,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fall.md",
+                "file": "Characters/Neathbow/Melanie.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Fall"
+              "title": "Melanie"
             }
           }
         ],
@@ -231,6 +231,7 @@
   },
   "active": "15960707c89abc52",
   "lastOpenFiles": [
+    "Fall.md",
     "Characters/Neathbow/Viric (Character).md",
     "Characters/Neathbow/Viric.png",
     "Characters/Neathbow/Sunlight (Character).md",
@@ -238,7 +239,7 @@
     "Characters/Neathbow/Moonlight (Character).md",
     "Characters/Neathbow/Apocyan (Character).md",
     "Characters/Neathbow/Cosmogone (Character).md",
-    "Characters/Neathbow/Gant (Character).md",
+    "Characters/Neathbow/Melanie.md",
     "Characters/Neathbow/Irrigo (Character).md",
     "Characters/Neathbow/Peligin (Character).md",
     "Characters/Neathbow/Violant (Character).md",
@@ -253,7 +254,6 @@
     "Items/Lockets/Violant Mirrorcatch Locket.md",
     "Items/Lockets/Peligin Mirrorcatch Locket.md",
     "Items/Mirrorcatch Locket Box.md",
-    "Fall.md",
     "Locations/Old Cave.md",
     "Items/Lockets/Moon-Stamped Mirrorcatch Locket.md",
     "Items/Lockets/Apocyan Mirrorcatch Locket.md",
