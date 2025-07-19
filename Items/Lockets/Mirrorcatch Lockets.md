@@ -5,4 +5,5 @@
 * [[Gant Mirrorcatch Locket]]
 * [[Irrigo Mirrorcatch Locket]]
 * [[Peligin Mirrorcatch Locket]]
-* 
+* [[Violant Mirrorcatch Locket]]
+* [[Viric Mirrorcatch Locket]]
