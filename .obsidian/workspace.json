@@ -56,12 +56,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Characters/Neathbow/Peligin (Character).md",
+                "file": "Characters/Neathbow/Apocyan (Character).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Peligin (Character)"
+              "title": "Apocyan (Character)"
             }
           }
         ],
@@ -229,10 +229,11 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "15960707c89abc52",
+  "active": "bd91ee793b823bd6",
   "lastOpenFiles": [
-    "Characters/Neathbow/Violant.png",
     "Characters/Neathbow/Peligin (Character).md",
+    "Characters/Neathbow/Apocyan.png",
+    "Characters/Neathbow/Violant.png",
     "Characters/Neathbow/Peligin.png",
     "Characters/Neathbow/Slobgollion (Character).md",
     "Characters/Neathbow/Violant (Character).md",
