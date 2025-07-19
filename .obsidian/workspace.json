@@ -33,10 +33,55 @@
               },
               "icon": "lucide-file",
               "title": "Old Cave"
-            }
+            },
+            "group": "5179ee013d1fb564"
           }
         ],
         "currentTab": 1
+      },
+      {
+        "id": "9594f11e73f8624f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6a8535c348b0ee74",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Locations/Old Cave.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1,
+                  "close": false
+                }
+              },
+              "icon": "lucide-git-fork",
+              "title": "Graph of Old Cave"
+            },
+            "group": "5179ee013d1fb564"
+          }
+        ]
       },
       {
         "id": "83638041160a49b9",
@@ -199,7 +244,7 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "4e67e6c1ec17a61d",
+  "active": "6a8535c348b0ee74",
   "lastOpenFiles": [
     "Locations/Old Cave.md",
     "Items/Mirrorcatch Locket Box.md",
