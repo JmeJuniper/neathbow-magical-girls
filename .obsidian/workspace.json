@@ -28,12 +28,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Items/Mirrorcatch Locket Box.md",
+                "file": "Characters/Neathbow/Slobgollion (Character).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Mirrorcatch Locket Box"
+              "title": "Slobgollion (Character)"
             }
           }
         ],
@@ -201,10 +201,12 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "3ce2f5850bf22e72",
+  "active": "4e67e6c1ec17a61d",
   "lastOpenFiles": [
-    "Locations/Old Cave.md",
+    "Characters/Neathbow/Slobgollion (Character).md",
+    "Items/Lockets/Slobgollion-Infused Amber.md",
     "Items/Mirrorcatch Locket Box.md",
+    "Locations/Old Cave.md",
     "Items/Lockets/Moon-Stamped Mirrorcatch Locket.md",
     "Characters/Neathbow/Sunlight (Character).md",
     "Characters/Neathbow/Moonlight (Character).md",
@@ -217,7 +219,6 @@
     "Items/Lockets/Viric Mirrorcatch Locket.md",
     "Items/Lockets/Gant Mirrorcatch Locket.md",
     "Characters/Neathbow/Gant (Character).md",
-    "Items/Lockets/Slobgollion-Infused Amber.md",
     "Items/Lockets/Violant Mirrorcatch Locket.md",
     "Items/Lockets/Apocyan Mirrorcatch Locket.md",
     "Items/Lockets/Irrigo Mirrorcatch Locket.md",
@@ -225,7 +226,6 @@
     "Locations",
     "Characters/Neathbow/Apocyan (Character).md",
     "Characters/Neathbow/Irrigo (Character).md",
-    "Characters/Neathbow/Slobgollion (Character).md",
     "Characters/Neathbow/Violant (Character).md",
     "Items/Lockets",
     "Items",
