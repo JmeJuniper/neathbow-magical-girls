@@ -1,0 +1,1 @@
+Created by [[Sunlight (Character)]] and [[Moonlight (Character)]] to store the [[Mirrorcatch Lockets]]
