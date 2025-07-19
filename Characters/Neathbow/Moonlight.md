@@ -1,2 +1,3 @@
 * Locket: [[Sun-Stamped Mirrorcatch Locket]]
-Original creator of the lockets, alongside [[]]
+Romantically engaged with [[Sunlight]]
+Co-creator of the lockets.
