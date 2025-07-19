@@ -1,1 +1,1 @@
-A rare spot that survived the [[Fall]].
+A rare spot that survived the fall of the [[Seventh City]].
