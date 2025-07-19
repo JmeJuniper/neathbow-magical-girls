@@ -56,12 +56,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Items/Lockets/Peligin Mirrorcatch Locket.md",
+                "file": "Characters/Neathbow/Violant (Character).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Peligin Mirrorcatch Locket"
+              "title": "Violant (Character)"
             }
           }
         ],
@@ -231,9 +231,9 @@
   },
   "active": "15960707c89abc52",
   "lastOpenFiles": [
+    "Items/Lockets/Peligin Mirrorcatch Locket.md",
     "Characters/Neathbow/Peligin (Character).md",
     "Characters/Neathbow/Peligin.jpg",
-    "Items/Lockets/Peligin Mirrorcatch Locket.md",
     "Items/Mirrorcatch Locket Box.md",
     "Fall.md",
     "Locations/Old Cave.md",
