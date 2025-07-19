@@ -153,12 +153,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Characters/Neathbow/Moonlight.md",
+                "file": "Items/Lockets/Mirrorcatch Lockets.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Moonlight"
+              "title": "Mirrorcatch Lockets"
             }
           }
         ],
@@ -327,9 +327,9 @@
   },
   "active": "8682d58370604167",
   "lastOpenFiles": [
+    "Characters/Neathbow/Moonlight.md",
     "Items/Lockets/Mirrorcatch Lockets.md",
     "Characters/Neathbow/Sunlight.md",
-    "Characters/Neathbow/Moonlight.md",
     "Items/Lockets",
     "Items",
     "Items/Lockets/Sun-Stamped Mirrorcatch Locket.md",
