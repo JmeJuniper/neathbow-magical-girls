@@ -9,41 +9,17 @@
         "dimension": 37.072649572649574,
         "children": [
           {
-            "id": "3ce2f5850bf22e72",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          },
-          {
-            "id": "cb8d10710ffee4b8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Items/Mirrorcatch Locket Box.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Mirrorcatch Locket Box"
-            }
-          },
-          {
             "id": "15960707c89abc52",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Locations/Old Cave.md",
+                "file": "Characters/Neathbow/Apocyan (Character).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Old Cave"
+              "title": "Apocyan (Character)"
             }
           }
         ]
@@ -210,12 +186,12 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "3ce2f5850bf22e72",
+  "active": "15960707c89abc52",
   "lastOpenFiles": [
-    "Characters/Neathbow/Cosmogone (Character).md",
+    "Characters/Neathbow/Julia.md",
     "Locations/Old Cave.md",
-    "Locations/Seventh City.md",
     "Items/Mirrorcatch Locket Box.md",
+    "Locations/Seventh City.md",
     "Locations/Both",
     "Locations/Seventh City-exclusive",
     "Locations/Sixth City-exclusive",
