@@ -1,0 +1,1 @@
+* Locket: [[Slobgollion-Infused Amber]]

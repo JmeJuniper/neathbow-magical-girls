@@ -153,12 +153,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Characters/Neathbow/Viric.md",
+                "file": "Characters/Neathbow/Peligin (Character).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Viric"
+              "title": "Peligin (Character)"
             }
           }
         ],
@@ -327,9 +327,10 @@
   },
   "active": "8682d58370604167",
   "lastOpenFiles": [
-    "Characters/Neathbow/Violant (Character).md",
-    "Characters/Neathbow/Sunlight (Character).md",
     "Characters/Neathbow/Slobgollion (Character).md",
+    "Characters/Neathbow/Sunlight (Character).md",
+    "Characters/Neathbow/Violant (Character).md",
+    "Characters/Neathbow/Viric (Character).md",
     "Characters/Neathbow/Peligin (Character).md",
     "Characters/Neathbow/Irrigo (Character).md",
     "Characters/Neathbow/Gant (Character).md",
@@ -340,7 +341,6 @@
     "Items/Lockets",
     "Items",
     "Items/Lockets/Sun-Stamped Mirrorcatch Locket.md",
-    "Characters/Neathbow/Viric.md",
     "Untitled.canvas",
     "2025-07-18.md",
     "Characters/Neathbow",
