@@ -139,12 +139,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Characters/Neathbow/Cosmogone.md",
+                "file": "Characters/Neathbow/Apocyan.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Cosmogone"
+              "title": "Apocyan"
             }
           }
         ],
@@ -311,13 +311,13 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "13e9ef5a3a59c64b",
+  "active": "bd91ee793b823bd6",
   "lastOpenFiles": [
-    "Characters/Neathbow/Gant.md",
     "Characters/Neathbow/Cosmogone.md",
+    "Characters/Neathbow/Gant.md",
     "Characters/Neathbow/Irrigo.md",
     "Characters/Neathbow/Moonlight.md",
-    "Characters/Neathbow/Peligin.md",
+    "Characters/Neathbow/Peligin2.md",
     "Characters/Neathbow/Slobgollion.md",
     "Untitled.canvas",
     "2025-07-18.md",
