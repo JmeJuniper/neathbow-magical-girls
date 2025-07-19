@@ -1,1 +1,1 @@
-* Locket: 
+* Locket: [[Peligin Mirrorcatch Locket]]
