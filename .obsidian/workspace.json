@@ -11,10 +11,14 @@
             "id": "e7f80d34e451ff7f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Locations/Old Cave.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Old Cave"
             }
           }
         ]
@@ -182,6 +186,8 @@
   },
   "active": "e7f80d34e451ff7f",
   "lastOpenFiles": [
+    "Locations/Old Cave.md",
+    "Locations",
     "Characters/Neathbow/Moonlight (Character).md",
     "Characters/Neathbow/Apocyan (Character).md",
     "Characters/Neathbow/Cosmogone (Character).md",
