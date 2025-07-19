@@ -6,7 +6,7 @@
       {
         "id": "3ea4095490a62fb1",
         "type": "tabs",
-        "dimension": 57.799145299145295,
+        "dimension": 21.367521367521366,
         "children": [
           {
             "id": "e7f80d34e451ff7f",
@@ -28,12 +28,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Items/Lockets/Apocyan Mirrorcatch Locket.md",
+                "file": "Characters/Neathbow/Moonlight (Character).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Apocyan Mirrorcatch Locket"
+              "title": "Moonlight (Character)"
             }
           }
         ],
@@ -42,7 +42,7 @@
       {
         "id": "83638041160a49b9",
         "type": "tabs",
-        "dimension": 42.2008547008547,
+        "dimension": 78.63247863247864,
         "children": [
           {
             "id": "4e67e6c1ec17a61d",
@@ -203,6 +203,7 @@
   },
   "active": "3ce2f5850bf22e72",
   "lastOpenFiles": [
+    "Items/Lockets/Apocyan Mirrorcatch Locket.md",
     "Characters/Neathbow/Slobgollion (Character).md",
     "Items/Lockets/Slobgollion-Infused Amber.md",
     "Items/Mirrorcatch Locket Box.md",
@@ -220,7 +221,6 @@
     "Items/Lockets/Gant Mirrorcatch Locket.md",
     "Characters/Neathbow/Gant (Character).md",
     "Items/Lockets/Violant Mirrorcatch Locket.md",
-    "Items/Lockets/Apocyan Mirrorcatch Locket.md",
     "Items/Lockets/Irrigo Mirrorcatch Locket.md",
     "Items/Lockets/Sun-Stamped Mirrorcatch Locket.md",
     "Locations",
