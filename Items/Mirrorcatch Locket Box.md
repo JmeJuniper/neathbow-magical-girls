@@ -1,1 +1,1 @@
-Created by [[Sunlight (Character)]] and [[Moonlight (Character)]] to store the [[Mirrorcatch Lockets]]
+Created by [[Sunlight (Character)]] and [[Moonlight (Character)]] to store the [[Mirrorcatch Lockets]]. Lost in the [[Fall]], first discovered by [[Peligin (Character)]].
