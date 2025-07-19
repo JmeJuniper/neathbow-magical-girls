@@ -1,1 +1,1 @@
-The place the Mirrorcatch Locket
+The place the [[Mirrorcatch Locket Box]] ended up. First discovered by [[Peligin (Character)]], who took the Peligin locket.
