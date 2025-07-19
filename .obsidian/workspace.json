@@ -148,17 +148,17 @@
             }
           },
           {
-            "id": "caa1fb5ef8e3fefc",
+            "id": "8682d58370604167",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Characters/Neathbow/Moonlight.md",
+                "file": "Items/Lockets/Lockets.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Moonlight"
+              "title": "Lockets"
             }
           }
         ],
@@ -325,9 +325,13 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "4e67e6c1ec17a61d",
+  "active": "bd91ee793b823bd6",
   "lastOpenFiles": [
     "Characters/Neathbow/Moonlight.md",
+    "Items/Lockets/Lockets.md",
+    "Items/Lockets",
+    "Items",
+    "Items/Lockets/Sun-Stamped Mirrorcatch Locket.md",
     "Characters/Neathbow/Sunlight.md",
     "Characters/Neathbow/Cosmogone.md",
     "Characters/Neathbow/Gant.md",
@@ -339,7 +343,6 @@
     "Characters/Neathbow/Slobgollion.md",
     "Untitled.canvas",
     "2025-07-18.md",
-    "Untitled",
     "Characters/Neathbow",
     "Characters",
     "Welcome.md"
