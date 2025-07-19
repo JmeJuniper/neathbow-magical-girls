@@ -1,4 +1,4 @@
-Created by [[Sunlight (Character)]] and [[Moonlight (Character)]] to store Mirrorcatch lockets. Lost in the [[Fall]] to the [[Old Cave]], first discovered by [[Maren]].
+Created by [[Sunlight (Character)]] and [[Lunne]] to store Mirrorcatch lockets. Lost in the [[Fall]] to the [[Old Cave]], first discovered by [[Maren]].
 Contents:
 * Removed upon discovery by Peligin:
 	* [[Peligin Mirrorcatch Locket]]
