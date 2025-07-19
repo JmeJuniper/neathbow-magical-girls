@@ -6,6 +6,7 @@
       {
         "id": "3ea4095490a62fb1",
         "type": "tabs",
+        "dimension": 57.799145299145295,
         "children": [
           {
             "id": "e7f80d34e451ff7f",
@@ -27,12 +28,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Locations/Old Cave.md",
+                "file": "Items/Lockets/Mirrorcatch Lockets.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Old Cave"
+              "title": "Mirrorcatch Lockets"
             },
             "group": "5179ee013d1fb564"
           }
@@ -40,66 +41,74 @@
         "currentTab": 1
       },
       {
-        "id": "9594f11e73f8624f",
-        "type": "tabs",
+        "id": "74f8c57e6c9acb9c",
+        "type": "split",
+        "dimension": 42.2008547008547,
         "children": [
           {
-            "id": "6a8535c348b0ee74",
-            "type": "leaf",
-            "state": {
-              "type": "localgraph",
-              "state": {
-                "file": "Locations/Old Cave.md",
-                "options": {
-                  "collapse-filter": true,
-                  "search": "",
-                  "localJumps": 1,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": true,
-                  "showArrow": false,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 1,
-                  "close": false
+            "id": "24e22278304658ab",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "6a8535c348b0ee74",
+                "type": "leaf",
+                "state": {
+                  "type": "localgraph",
+                  "state": {
+                    "file": "Items/Lockets/Mirrorcatch Lockets.md",
+                    "options": {
+                      "collapse-filter": true,
+                      "search": "",
+                      "localJumps": 1,
+                      "localBacklinks": true,
+                      "localForelinks": true,
+                      "localInterlinks": false,
+                      "showTags": false,
+                      "showAttachments": false,
+                      "hideUnresolved": false,
+                      "collapse-color-groups": true,
+                      "colorGroups": [],
+                      "collapse-display": true,
+                      "showArrow": false,
+                      "textFadeMultiplier": 0,
+                      "nodeSizeMultiplier": 1,
+                      "lineSizeMultiplier": 1,
+                      "collapse-forces": true,
+                      "centerStrength": 0.518713248970312,
+                      "repelStrength": 10,
+                      "linkStrength": 1,
+                      "linkDistance": 250,
+                      "scale": 0.7132754626224425,
+                      "close": true
+                    }
+                  },
+                  "icon": "lucide-git-fork",
+                  "title": "Graph of Mirrorcatch Lockets"
+                },
+                "group": "5179ee013d1fb564"
+              }
+            ]
+          },
+          {
+            "id": "83638041160a49b9",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "4e67e6c1ec17a61d",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "graph",
+                  "state": {},
+                  "pinned": true,
+                  "icon": "lucide-git-fork",
+                  "title": "Graph view"
                 }
-              },
-              "icon": "lucide-git-fork",
-              "title": "Graph of Old Cave"
-            },
-            "group": "5179ee013d1fb564"
+              }
+            ]
           }
-        ]
-      },
-      {
-        "id": "83638041160a49b9",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "4e67e6c1ec17a61d",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "graph",
-              "state": {},
-              "pinned": true,
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          }
-        ]
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -244,32 +253,32 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "6a8535c348b0ee74",
+  "active": "3ce2f5850bf22e72",
   "lastOpenFiles": [
-    "Locations/Old Cave.md",
-    "Items/Mirrorcatch Locket Box.md",
-    "Characters/Neathbow/Viric (Character).md",
+    "Items/Lockets/Cosmogone Mirrorcatch Locket.md",
     "Characters/Neathbow/Cosmogone (Character).md",
-    "Items/Lockets/Slobgollion-Infused Amber.md",
+    "Characters/Neathbow/Viric (Character).md",
+    "Items/Lockets/Viric Mirrorcatch Locket.md",
+    "Items/Lockets/Mirrorcatch Lockets.md",
     "Items/Lockets/Gant Mirrorcatch Locket.md",
+    "Characters/Neathbow/Gant (Character).md",
+    "Items/Mirrorcatch Locket Box.md",
+    "Locations/Old Cave.md",
+    "Items/Lockets/Slobgollion-Infused Amber.md",
     "Items/Lockets/Moon-Stamped Mirrorcatch Locket.md",
     "Items/Lockets/Violant Mirrorcatch Locket.md",
     "Items/Lockets/Apocyan Mirrorcatch Locket.md",
     "Items/Lockets/Irrigo Mirrorcatch Locket.md",
-    "Items/Lockets/Viric Mirrorcatch Locket.md",
     "Items/Lockets/Peligin Mirrorcatch Locket.md",
-    "Items/Lockets/Cosmogone Mirrorcatch Locket.md",
     "Items/Lockets/Sun-Stamped Mirrorcatch Locket.md",
     "Locations",
     "Characters/Neathbow/Moonlight (Character).md",
     "Characters/Neathbow/Apocyan (Character).md",
-    "Characters/Neathbow/Gant (Character).md",
     "Characters/Neathbow/Irrigo (Character).md",
     "Characters/Neathbow/Peligin (Character).md",
     "Characters/Neathbow/Slobgollion (Character).md",
     "Characters/Neathbow/Sunlight (Character).md",
     "Characters/Neathbow/Violant (Character).md",
-    "Items/Lockets/Mirrorcatch Lockets.md",
     "Items/Lockets",
     "Items",
     "Untitled.canvas",
