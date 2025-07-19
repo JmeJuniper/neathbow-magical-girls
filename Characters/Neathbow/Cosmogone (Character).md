@@ -1,3 +1,3 @@
 * Locket: [[Cosmogone Mirrorcatch Locket]]
-Sisters with [[Viric (Character)]]
+Sisters with [[Silvia]]
 ![[Cosmogone.png]]
