@@ -56,12 +56,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Characters/Neathbow/Viric (Character).md",
+                "file": "Fall.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Viric (Character)"
+              "title": "Fall"
             }
           }
         ],
@@ -70,7 +70,7 @@
       {
         "id": "83638041160a49b9",
         "type": "tabs",
-        "dimension": 62.927350427350426,
+        "dimension": 62.92735042735043,
         "children": [
           {
             "id": "4e67e6c1ec17a61d",
@@ -229,8 +229,9 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "bd91ee793b823bd6",
+  "active": "15960707c89abc52",
   "lastOpenFiles": [
+    "Characters/Neathbow/Viric (Character).md",
     "Characters/Neathbow/Viric.png",
     "Characters/Neathbow/Sunlight (Character).md",
     "Characters/Neathbow/Slobgollion (Character).md",
@@ -241,7 +242,6 @@
     "Characters/Neathbow/Irrigo (Character).md",
     "Characters/Neathbow/Peligin (Character).md",
     "Characters/Neathbow/Violant (Character).md",
-    "Characters/Neathbow/Viric (Character).md",
     "Characters/Neathbow/Irrigo.png",
     "Characters/Neathbow/Gant.png",
     "Characters/Neathbow/Cosmogone.png",
