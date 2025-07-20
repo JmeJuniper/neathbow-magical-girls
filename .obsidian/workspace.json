@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Characters/Neathbow/Lethe.md",
+                "file": "Characters/Neathbow/Verena.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lethe"
+              "title": "Verena"
             }
           }
         ]
@@ -188,6 +188,7 @@
   },
   "active": "4e67e6c1ec17a61d",
   "lastOpenFiles": [
+    "Characters/Neathbow/Verena.md",
     "Characters/Neathbow/Lethe.md",
     "Characters/Neathbow/Monika.md",
     "Characters/Neathbow/Julia.md",
@@ -206,7 +207,6 @@
     "Characters/Neathbow/Silvia.md",
     "Characters/Neathbow/Viric.png",
     "Characters/Neathbow/Melanie.md",
-    "Characters/Neathbow/Violant (Character).md",
     "Characters/Neathbow/Irrigo.png",
     "Characters/Neathbow/Gant.png",
     "Characters/Neathbow/Cosmogone.png",
