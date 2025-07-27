@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Locations/Seventh City.md",
+                "file": "Items/Lockets/Gant Mirrorcatch Locket.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Seventh City"
+              "title": "Gant Mirrorcatch Locket"
             }
           }
         ]
@@ -186,7 +186,7 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "4e67e6c1ec17a61d",
+  "active": "15960707c89abc52",
   "lastOpenFiles": [
     "Locations/Seventh City.md",
     "Characters/Neathbow/Silvia.md",
