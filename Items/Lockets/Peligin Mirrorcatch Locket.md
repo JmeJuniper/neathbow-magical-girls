@@ -1,1 +1,2 @@
-Locket: [[Peligin Mirrorcatch Locket]]
+## Object
+Takes the form of a motherboard
