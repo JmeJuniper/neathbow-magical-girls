@@ -20,6 +20,13 @@
         "a": 1,
         "rgb": 5636341
       }
+    },
+    {
+      "query": "path:Items/Lockets  ",
+      "color": {
+        "a": 1,
+        "rgb": 11657298
+      }
     }
   ],
   "collapse-display": false,
@@ -33,5 +40,5 @@
   "linkStrength": 1,
   "linkDistance": 250,
   "scale": 0.6599430498367324,
-  "close": true
+  "close": false
 }
