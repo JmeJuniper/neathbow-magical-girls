@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Characters/Neathbow/Silvia.md",
+                "file": "Locations/Seventh City.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Silvia"
+              "title": "Seventh City"
             }
           }
         ]
@@ -186,7 +186,7 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "4e67e6c1ec17a61d",
+  "active": "15960707c89abc52",
   "lastOpenFiles": [
     "Characters/Neathbow/Silvia.md",
     "Characters/Neathbow/Verena.md",
