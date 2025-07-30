@@ -1,1 +1,2 @@
+
 ![[Richard von Weizsäcker.png]]
