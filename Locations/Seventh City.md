@@ -1,2 +1,3 @@
-Berlin
-est. late 1900s fall date?
+## Setting
+Fall date: 1990
+Berlin Wall recently fell, 
