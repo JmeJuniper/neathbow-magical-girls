@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Locations/Seventh City.md",
+                "file": "Characters/Richard von Weizsäcker.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Seventh City"
+              "title": "Richard von Weizsäcker"
             }
           }
         ]
@@ -186,11 +186,12 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "15960707c89abc52",
+  "active": "bd91ee793b823bd6",
   "lastOpenFiles": [
+    "Locations/Seventh City.md",
+    "Characters/Richard von Weizsäcker.md",
     "Items/Lockets/Viric Mirrorcatch Locket.md",
     "Locations/Old Cave.md",
-    "Locations/Seventh City.md",
     "Characters/Neathbow/Lethe.md",
     "Characters/Neathbow/Verena.md",
     "Items/Lockets/Peligin Mirrorcatch Locket.md",
