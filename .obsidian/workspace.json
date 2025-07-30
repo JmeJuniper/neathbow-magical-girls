@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Locations/Old Cave.md",
+                "file": "Items/Lockets/Viric Mirrorcatch Locket.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Old Cave"
+              "title": "Viric Mirrorcatch Locket"
             }
           }
         ]
@@ -186,7 +186,7 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "4e67e6c1ec17a61d",
+  "active": "15960707c89abc52",
   "lastOpenFiles": [
     "Locations/Old Cave.md",
     "Locations/Seventh City.md",
