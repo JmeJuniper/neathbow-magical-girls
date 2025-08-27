@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Characters/Richard von Weizsäcker.md",
+                "file": "Characters/Erich Honecker.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Richard von Weizsäcker"
+              "title": "Erich Honecker"
             }
           }
         ]
@@ -186,12 +186,13 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "15960707c89abc52",
+  "active": "bd91ee793b823bd6",
   "lastOpenFiles": [
+    "Characters/Richard von Weizsäcker.md",
+    "Characters/Erich Honecker.md",
     "Locations/verschlossen Fluss.md",
     "Locations/Old Cave.md",
     "Locations/Berlin.md",
-    "Characters/Richard von Weizsäcker.md",
     "Characters/Richard von Weizsäcker.png",
     "Items/Lockets/Viric Mirrorcatch Locket.md",
     "Characters/Neathbow/Lethe.md",
@@ -226,7 +227,6 @@
     "Characters/Neathbow/Violant.jpg",
     "Items/Lockets/Moon-Stamped Mirrorcatch Locket.md",
     "Items/Lockets/Mirrorcatch Lockets.md",
-    "Items/Lockets/Irrigo Mirrorcatch Locket.md",
     "Locations",
     "Items/Lockets",
     "Items",
