@@ -1,1 +1,1 @@
-A rare spot that survived the fall of the [[Berlin]].
+A rare spot that survived the fall of the [[Berlin]]. Unveiled in 1996.

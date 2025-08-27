@@ -3,4 +3,4 @@
 Fall date: 1990
 ## Deal
 
-The Masters of the Bazaar promised reunification in exchange for ownership of the city to [[Richard von Weizsäcker]].
+The Masters of the Bazaar promised reunification to [[Richard von Weizsäcker]] in exchange for ownership of the city.

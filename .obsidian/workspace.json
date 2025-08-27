@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Locations/Berlin.md",
+                "file": "Locations/Untitled.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Berlin"
+              "title": "Untitled"
             }
           }
         ]
@@ -188,11 +188,12 @@
   },
   "active": "15960707c89abc52",
   "lastOpenFiles": [
+    "Locations/Old Cave.md",
+    "Locations/Untitled.md",
+    "Locations/Berlin.md",
     "Characters/Richard von Weizsäcker.md",
     "Characters/Richard von Weizsäcker.png",
-    "Locations/Berlin.md",
     "Items/Lockets/Viric Mirrorcatch Locket.md",
-    "Locations/Old Cave.md",
     "Characters/Neathbow/Lethe.md",
     "Characters/Neathbow/Verena.md",
     "Items/Lockets/Peligin Mirrorcatch Locket.md",
