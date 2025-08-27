@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Species/Curators.md",
+                "file": "Characters/Masters of the Bazaar -name TBD-/Herr.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Curators"
+              "title": "Herr"
             }
           }
         ]
@@ -186,11 +186,13 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "bd91ee793b823bd6",
+  "active": "15960707c89abc52",
   "lastOpenFiles": [
-    "Characters/Untitled",
-    "Species/Devils.md",
+    "Characters/Masters of the Bazaar -name TBD-/Herr Uran.md",
+    "Characters/Masters of the Bazaar -name TBD-/Herr.md",
     "Species/Curators.md",
+    "Characters/Masters of the Bazaar -name TBD-",
+    "Species/Devils.md",
     "Locations/Hell.md",
     "Locations/Berlin/Transportation/Rail lines/New Moloch Line.md",
     "Species",
@@ -218,7 +220,6 @@
     "Items/Lockets/Peligin Mirrorcatch Locket.md",
     "Characters/Neathbow/Maren.md",
     "Items/Lockets/Apocyan Mirrorcatch Locket.md",
-    "Items/Lockets/Violant Mirrorcatch Locket.md",
     "Locations/Both",
     "Locations/Seventh City-exclusive",
     "Locations/Sixth City-exclusive",
@@ -233,7 +234,6 @@
     "Characters/Neathbow/Violant.jpg",
     "Locations",
     "Items/Lockets",
-    "Items",
     "Untitled.canvas"
   ]
 }
