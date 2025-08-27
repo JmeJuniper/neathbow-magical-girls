@@ -1,1 +1,1 @@
-A rare spot that survived the fall of the [[Seventh City]].
+A rare spot that survived the fall of the [[Berlin]].

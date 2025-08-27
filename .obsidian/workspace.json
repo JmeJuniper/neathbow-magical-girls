@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Characters/Richard von Weizsäcker.md",
+                "file": "Locations/Berlin.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Richard von Weizsäcker"
+              "title": "Berlin"
             }
           }
         ]
@@ -186,11 +186,11 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "4e67e6c1ec17a61d",
+  "active": "15960707c89abc52",
   "lastOpenFiles": [
     "Characters/Richard von Weizsäcker.md",
     "Characters/Richard von Weizsäcker.png",
-    "Locations/Seventh City.md",
+    "Locations/Berlin.md",
     "Items/Lockets/Viric Mirrorcatch Locket.md",
     "Locations/Old Cave.md",
     "Characters/Neathbow/Lethe.md",
