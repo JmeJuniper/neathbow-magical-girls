@@ -1,2 +1,2 @@
-Former leader of West Berlin. Made a deal with the [[]]
+Former leader of West Berlin. Made a deal with the [[Masters of the Bazaar]] to unite East and West Berlin into [[Berlin|one city]], and to unite him with [[. 
 ![[Richard von Weizsäcker.png]]
