@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "New Moloch Line.md",
+                "file": "Locations/Berlin/Transportation/Rail lines/New Moloch Line.md",
                 "mode": "source",
                 "source": false
               },
@@ -188,11 +188,12 @@
   },
   "active": "bd91ee793b823bd6",
   "lastOpenFiles": [
-    "Locations/Transportation/Rail lines",
-    "Locations/Transportation",
-    "Locations/Berlin Hauptbahnhof.md",
-    "New Moloch Line.md",
-    "Locations/Berlin.md",
+    "Locations/Berlin",
+    "Locations/Berlin/Transportation/Rail lines",
+    "Locations/Berlin/Transportation",
+    "Locations/Berlin/Transportation/Berlin Hauptbahnhof.md",
+    "Locations/Berlin/Transportation/Rail lines/New Moloch Line.md",
+    "Locations/Berlin/Berlin.md",
     "Characters/Erich Honecker.md",
     "Characters/Richard von Weizsäcker.md",
     "Characters/Neathbow/Melanie.md",
@@ -204,8 +205,8 @@
     "Characters/Neathbow/Soleil.md",
     "Characters/Neathbow/Lunne.md",
     "Characters/Neathbow/Monika.md",
-    "Locations/verschlossen Fluss.md",
-    "Locations/Old Cave.md",
+    "Locations/Berlin/verschlossen Fluss.md",
+    "Locations/Berlin/Old Cave.md",
     "Characters/Richard von Weizsäcker.png",
     "Items/Lockets/Viric Mirrorcatch Locket.md",
     "Items/Lockets/Peligin Mirrorcatch Locket.md",
