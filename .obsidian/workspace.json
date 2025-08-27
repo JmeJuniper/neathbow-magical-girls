@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Locations/Hell.md",
+                "file": "Species/Devils.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Hell"
+              "title": "Devils"
             }
           }
         ]
@@ -188,9 +188,9 @@
   },
   "active": "15960707c89abc52",
   "lastOpenFiles": [
+    "Locations/Hell.md",
     "Locations/Berlin/Transportation/Rail lines/New Moloch Line.md",
     "Species/Devils.md",
-    "Locations/Hell.md",
     "Species",
     "Untitled.md",
     "Locations/Berlin/Transportation/Berlin Hauptbahnhof.md",
