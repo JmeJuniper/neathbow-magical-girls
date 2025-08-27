@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Locations/Untitled.md",
+                "file": "Locations/Berlin Hauptbahnhof.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "Berlin Hauptbahnhof"
             }
           }
         ]
@@ -186,9 +186,9 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "15960707c89abc52",
+  "active": "4e67e6c1ec17a61d",
   "lastOpenFiles": [
-    "Locations/Untitled.md",
+    "Locations/Berlin Hauptbahnhof.md",
     "Locations/Berlin.md",
     "Characters/Erich Honecker.md",
     "Characters/Richard von Weizsäcker.md",
