@@ -1,1 +1,1 @@
-A line attached to [[Berlin Hauptbahnhof]], salvaged from the old Mo
+A line attached to [[Berlin Hauptbahnhof]], salvaged from the old Moloch Line, connecting [[Berlin]] and [[Hell]].
