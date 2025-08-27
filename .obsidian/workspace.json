@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Characters/Erich Honecker.md",
+                "file": "Characters/Neathbow/Lunne.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Erich Honecker"
+              "title": "Lunne"
             }
           }
         ]
@@ -186,8 +186,9 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "bd91ee793b823bd6",
+  "active": "15960707c89abc52",
   "lastOpenFiles": [
+    "Characters/Neathbow/Monika.md",
     "Characters/Richard von Weizsäcker.md",
     "Characters/Erich Honecker.md",
     "Locations/verschlossen Fluss.md",
@@ -206,7 +207,6 @@
     "Characters/Neathbow/Julia.md",
     "Characters/Neathbow/Silvia.md",
     "Items/Lockets/Gant Mirrorcatch Locket.md",
-    "Characters/Neathbow/Monika.md",
     "Characters/Neathbow/Melanie.md",
     "Characters/Neathbow/Soleil.md",
     "Items/Lockets/Slobgollion-Infused Amber.md",

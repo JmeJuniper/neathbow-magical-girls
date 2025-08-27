@@ -1,0 +1,1 @@
+Former leader of East Berlin. In love with [[Richard von Weizsäcker]].
