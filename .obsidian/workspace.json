@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Locations/Untitled.md",
+                "file": "Characters/Richard von Weizsäcker.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "Richard von Weizsäcker"
             }
           }
         ]
@@ -188,8 +188,8 @@
   },
   "active": "15960707c89abc52",
   "lastOpenFiles": [
+    "Locations/verschlossen Fluss.md",
     "Locations/Old Cave.md",
-    "Locations/Untitled.md",
     "Locations/Berlin.md",
     "Characters/Richard von Weizsäcker.md",
     "Characters/Richard von Weizsäcker.png",
