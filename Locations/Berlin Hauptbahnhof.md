@@ -1,1 +1,1 @@
-Central station of [[Berlin]], near [[The Bazaar]]. Main method of transportation throughout the city, now with an extra line to [[Hell]] instituted by the [[Devils]].
+Central station of [[Berlin]], near [[The Bazaar]]. Main method of transportation throughout the city, now with an [[New Moloch Line|extra line to Hell]] instituted by the [[Devils]].

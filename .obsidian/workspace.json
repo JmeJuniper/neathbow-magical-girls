@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Locations/Berlin Hauptbahnhof.md",
+                "file": "New Moloch Line.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Berlin Hauptbahnhof"
+              "title": "New Moloch Line"
             }
           }
         ]
@@ -186,9 +186,12 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "4e67e6c1ec17a61d",
+  "active": "bd91ee793b823bd6",
   "lastOpenFiles": [
+    "Locations/Transportation/Rail lines",
+    "Locations/Transportation",
     "Locations/Berlin Hauptbahnhof.md",
+    "New Moloch Line.md",
     "Locations/Berlin.md",
     "Characters/Erich Honecker.md",
     "Characters/Richard von Weizsäcker.md",
@@ -216,7 +219,6 @@
     "Locations/Both",
     "Locations/Seventh City-exclusive",
     "Locations/Sixth City-exclusive",
-    "Seventh Fall.md",
     "Characters/Neathbow/Viric.png",
     "Characters/Neathbow/Irrigo.png",
     "Characters/Neathbow/Gant.png",
@@ -226,7 +228,6 @@
     "Characters/Neathbow/Apocyan.png",
     "Characters/Neathbow/Peligin.jpg",
     "Characters/Neathbow/Violant.jpg",
-    "Items/Lockets/Moon-Stamped Mirrorcatch Locket.md",
     "Locations",
     "Items/Lockets",
     "Items",
